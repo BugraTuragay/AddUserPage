@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "buğra tr",
+      "department": "pp",
+      "salary": "8974",
+      "id": 2
+    },
+    {
+      "name": "buğra",
+      "department": "yazılım",
+      "salary": "1212",
+      "id": 3
+    },
+    {
+      "name": "ali musa",
+      "department": "alış",
+      "salary": "2008",
+      "id": 4
+    },
+    {
+      "name": "güral",
+      "department": "polis",
+      "salary": "1234",
+      "id": 5
+    },
+    {
+      "name": "gür",
+      "department": "alış",
+      "salary": "6680",
+      "id": 6
+    }
+  ]
+}
